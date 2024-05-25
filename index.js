@@ -78,7 +78,7 @@ const Game = {
 	},
 
 	fruitSizes: [
-		{ radius: 16,  scoreValue: 1,  img: './assets/img/circle0.png'  },
+		{ radius: 30,  scoreValue: 1,  img: './assets/img/circle0.png'  },
 		{ radius: 32,  scoreValue: 3,  img: './assets/img/circle1.png'  },
 		{ radius: 40,  scoreValue: 6,  img: './assets/img/circle2.png'  },
 		{ radius: 56,  scoreValue: 10, img: './assets/img/circle3.png'  },
